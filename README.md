@@ -5,8 +5,8 @@ A predictive model for plane crashes by analysing past aviation data
 What is the probability that a plane crash will result in fatalities?
 
 ## Functionality
-1. Determine the best three variables for predicting whether a plane crash will be fatal
-2. Dataset preparation by filling in missing values, removing too old values and enumerated the severity of fatality.  
+1. Determined the best three variables for predicting whether a plane crash will be fatal
+2. Dataset preparation by filling in missing values, removing too old values and values in different geographical locations, and enumerated the severity of fatality.  
 3. Calculated Classification Accuracies of individual variables using  Goodness of Fit models, Confusion Matrix and Decision Trees
 
 ## Documentation
