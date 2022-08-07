@@ -10,7 +10,7 @@ What is the probability that a plane crash will result in fatalities?
 3. Calculated Classification Accuracies of individual variables using  Goodness of Fit models, Confusion Matrix and Decision Trees
 
 ## Documentation
-1. Final datset: [AviationData(Final).csv] (https://github.com/nikita-bachhas/Analysis-of-Aviation-Data/blob/main/AviationData(Final).csv)
+1. Final datset: [AviationData(Final).csv](https://github.com/nikita-bachhas/Analysis-of-Aviation-Data/blob/main/AviationData(Final).csv)
 2. Presentation with a summary of the project: [FS5T04.pptx](https://github.com/nikita-bachhas/Analysis-of-Aviation-Data/blob/main/FS5T04.pptx)
 
 ## Developed by:
